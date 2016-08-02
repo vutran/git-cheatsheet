@@ -105,3 +105,13 @@ Amend with no edits
 ````bash
 $ git comment --amend --no-edit
 ````
+
+## Miscellaneous
+
+## Unstage all
+
+git reset HEAD --
+
+# Display Last commit
+
+git log -1 HEAD
