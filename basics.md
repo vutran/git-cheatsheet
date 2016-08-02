@@ -111,11 +111,11 @@ $ git comment --amend --no-edit
 ## Unstage all
 
 ```bash
-git reset HEAD --
+$ git reset HEAD --
 ```
 
 # Display Last commit
 
 ```bash
-git log -1 HEAD
+$ git log -1 HEAD
 ```
