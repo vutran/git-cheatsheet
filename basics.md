@@ -114,8 +114,14 @@ $ git comment --amend --no-edit
 $ git reset HEAD --
 ```
 
-# Display Last commit
+## Display Last commit
 
 ```bash
 $ git log -1 HEAD
+```
+
+## Get recent commits with upstream
+
+```bash
+$ git branch -vv
 ```
